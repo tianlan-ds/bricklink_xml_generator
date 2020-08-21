@@ -6,4 +6,3 @@ RUN apt-get update && apt-get install -y tzdata vim
 
 RUN pip3 install lxml
 RUN pip3 install bs4
-RUN pip3 install lxml
